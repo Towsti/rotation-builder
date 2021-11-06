@@ -1,3 +1,8 @@
+# Custom
+.idea
+*.txt
+site/js/emojiLUT.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
